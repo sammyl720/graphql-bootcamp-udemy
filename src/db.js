@@ -26,7 +26,7 @@ const posts = [
     id: '32ae',
     title: 'Welcome to Graphql',
     body: 'I just started learning GraphQL. Cool Stuff!!',
-    published: false,
+    published: true,
     author: '1',
     comments: ['c1e12']
   },
